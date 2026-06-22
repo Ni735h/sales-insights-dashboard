@@ -62,5 +62,4 @@ Regional Distribution: Even split across all regions
 👨‍💻 Author
 Nitesh Kanojiya
 
-📝 License
-MIT
+
