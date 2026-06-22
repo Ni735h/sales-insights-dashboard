@@ -47,8 +47,6 @@ bash
 python main.py
 Open dashboard.png to view the output!
 
-📊 Sample Output
-https://dashboard.png
 
 📈 Key Insights
 Total Revenue: .5M+
